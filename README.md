@@ -1,6 +1,4 @@
-```html
-<b><h2>Screeps scripts<h2><b>
+# Screeps scripts
 
 These are the scripts that I personally use in my Screeps account.
-<font size='4'>Those who use these scripts take the responsibility to attack the strong and protect the weak</font>
-```
+###### Those who use these scripts take the responsibility to attack the strong and protect the weak.
